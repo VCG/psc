@@ -1,4 +1,6 @@
 # psc
 Parallel Separable 3D Convolution for Video and Volumetric Data Understanding
 
-Code is being uploaded... please check back soon.
+This code is in the process of being cleaned-up. It requires modification to 
+paths and you'll need to provide your own data.  Otherwise please allow sometime
+for us to clean up and see if data could be released.
